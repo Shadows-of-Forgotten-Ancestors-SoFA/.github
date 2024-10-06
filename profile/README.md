@@ -67,4 +67,4 @@ This section provides an overview of how to use the provided services. This code
   https://www.linkedin.com/in/lidiia-zaparenko-647457317/
 
 - Heorgii Holovanov
-  https://www.linkedin.com/in/heorgii-holovanov-3bb826264/
+  https://www.linkedin.com/in/heorhii-holovanov-3bb826264/
