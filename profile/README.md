@@ -9,16 +9,16 @@ A geographic information system (GIS) can create, manage, analyze, and map many 
 - [```geojsons-api```](https://github.com/Shadows-of-Forgotten-Ancestors-SoFA/geojsons-api)   
   web api returns geoJSON by timestamp
 - [```netcdf-to-csv```](https://github.com/Shadows-of-Forgotten-Ancestors-SoFA/netcdf-to-csv)   
-  converts NetCDF datasets to csv format
+  convertor for NetCDF datasets to csv data
 - [```datasets-to-netcdf```](https://github.com/Shadows-of-Forgotten-Ancestors-SoFA/datasets-to-netcdf)   
-  downloads datasets from remote sources, proceses this data and saves to NetCDF format
+  dataset loader for remote sources into NetCDF data
 - [```ml```](https://github.com/Shadows-of-Forgotten-Ancestors-SoFA/ml)   
-  AI random forest model that predicts NDVI and dust density
+  Random Forest AI models used to predict NDVI and dust density
 
 
 # How to
 
-This section provides an overview of how to use the provided services. This code is designed to predict future Normalized Difference Vegetation Index (NDVI) and dust density by using raw data drom NetCDF.
+This section provides an overview of how to use the provided services. This code is designed to predict future Normalized Difference Vegetation Index (NDVI) and dust density by using raw data drom NetCDF. Also you can skip fisrt two steps and use it with pretrained data.
 
 1. Prepare and Process Data:
    - Download the required datasets (dust density and NDVI) from open sources like NASA and Copernicus.
