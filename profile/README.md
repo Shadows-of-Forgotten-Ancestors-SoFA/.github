@@ -13,7 +13,7 @@ A geographic information system (GIS) can create, manage, analyze, and map many 
 - [```datasets-to-netcdf```](https://github.com/Shadows-of-Forgotten-Ancestors-SoFA/datasets-to-netcdf)   
   dataset loader for remote sources into NetCDF data
 - [```ml```](https://github.com/Shadows-of-Forgotten-Ancestors-SoFA/ml)   
-  Random Forest AI models used to predict NDVI and dust density
+  Random Forest AI models used to predict NDVI and dust density and tracks the correlation between them
 
 
 # How to
