@@ -66,5 +66,5 @@ This section provides an overview of how to use the provided services. This code
 - Lidiia Zaparenko
   https://www.linkedin.com/in/lidiia-zaparenko-647457317/
 
-- Heorgii Holovanov
+- Heorhii Holovanov
   https://www.linkedin.com/in/heorhii-holovanov-3bb826264/
